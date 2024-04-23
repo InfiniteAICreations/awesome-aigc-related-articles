@@ -1,5 +1,5 @@
 <br />
-<h1 align="center">awesome-llm-related-projects</h1>
+<h1 align="center">awesome-llm-articles</h1>
 <p align="center">
 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" height="18"></a>
 <br />
