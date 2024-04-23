@@ -1,8 +1,9 @@
-<br />
-<h1 align="center">awesome-llm-articles</h1>
-<p align="center">
-<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" height="18"></a>
-<br />
+<div align="center">
+    <h1 align="center">awesome-llm-articles</h1>
+    <img src="./logo.png" alt="Logo" width="300" height="300" />
+    <p align="center">
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" height="18"></a>
+</div>
 
 😎 Awesome lists about all kinds of LLM related articles
 
