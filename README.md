@@ -16,6 +16,7 @@
 
 ## Code Assistant
 - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals): Exploring the internals of GitHub Copilot.
+- [Personal Copilot: Train Your Own Coding Assistant](https://huggingface.co/blog/personal-copilot)
 
 ## LLM Optimization
 - [A possibly new algorithm for LLM Inference](https://kolinko.github.io/effort/)
