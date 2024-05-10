@@ -20,3 +20,6 @@
 
 ## LLM Optimization
 - [A possibly new algorithm for LLM Inference](https://kolinko.github.io/effort/)
+
+## Application
+- [In-Depth Product Analysis of Devin, the Hottest AI Developer](https://ppaolo.substack.com/p/in-depth-product-analysis-devin-cognition-labs)
